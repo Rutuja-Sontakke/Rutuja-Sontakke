@@ -20,7 +20,7 @@ Full Stack Developer with hands-on experience in building **government citizen-s
 
 **🎓 Education:** B.Sc. Computer Science | Mamasaheb Mohol College, Pune
 
-**🔭 Currently:** Developing production-level projects and expanding expertise in modern web technologies
+**🔭 Currently:** Developing production-level projects and expanding expertise in modern web technologies as a freelancer.
 
 ---
 
