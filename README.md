@@ -14,14 +14,9 @@
 
 ---
 
-## 🚀 About Me
 
-Full Stack Developer with production experience building **government citizen-service portals** and **scalable web applications**. Specialized in PHP/CodeIgniter and MERN stack with expertise in secure authentication systems and optimized database architectures.
-
-- 🏛️ Built **4 Government of Maharashtra portals** serving thousands of users
+- 🏛️ Built **3 Government of Maharashtra portals** serving thousands of users
 - ⚡ Developed **20+ CRUD modules** with role-based access control
-- 🚀 Reduced page response times by **~30%** through query optimization
-- 🎓 **B.Sc. Computer Science** | Mamasaheb Mohol College, Pune
 
 ---
 
@@ -47,7 +42,7 @@ Full Stack Developer with production experience building **government citizen-se
 ## 💼 Experience Highlights
 
 ### 🏢 PHP Full Stack Developer | Softmate Systems LLP
-*April 2024 - February 2025*
+*December 2025 - May 2026*
 
 - Developed **4 Government of Maharashtra citizen-service portals**
 - Built **20+ secure CRUD modules** with role-based access control
@@ -55,7 +50,7 @@ Full Stack Developer with production experience building **government citizen-se
 - Implemented secure session management for government compliance
 
 ### 💻 Full Stack Developer Intern | Cognifyz Technologies
-*January 2024 - March 2024*
+* October 2025 - November 2025*
 
 - Built MVC-based user registration with RESTful API architecture
 - Implemented bcrypt authentication and MongoDB integration
