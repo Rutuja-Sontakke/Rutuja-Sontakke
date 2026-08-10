@@ -44,7 +44,7 @@
 ### 🏢 PHP Full Stack Developer | Softmate Systems LLP
 *December 2025 - May 2026*
 
-- Developed **4 Government of Maharashtra citizen-service portals**
+- Developed **3 Government of Maharashtra citizen-service portals**
 - Built **20+ secure CRUD modules** with role-based access control
 - Optimized database queries reducing response time by **~30%**
 - Implemented secure session management for government compliance
