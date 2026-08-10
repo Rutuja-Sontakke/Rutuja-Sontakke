@@ -1,10 +1,10 @@
+<div align="center">
 # Hello 👋
-
+</div>
 <div align="center">
 
 ### 💻 Full Stack Developer | PHP & MERN Stack Specialist
 
-*Building secure, scalable web applications with modern technologies*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rutujas04/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-rutuja-s-projects2.vercel.app/)
