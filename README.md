@@ -36,19 +36,25 @@
 
 ## 🕷️ `EARTH-65 // DEVELOPER PROFILE`
 
-```text
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│   🕷️  RUTUJA SONTTAKKE                               │
-│                                                      │
-│   FULL STACK DEVELOPER                               │
-│   MERN + PHP                                         │
-│                                                      │
-│   ⚡ Code                                             │
-│   🎨 Design                                           │
-│   🕸️ Animate                                          │
-│   🚀 Deploy                                           │
-│                                                      │
-│   "Anyone can wear the mask."                       │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
+---
+
+<div align="center">
+
+## 🕷️ `CODE // CREATE // SWING // REPEAT`
+
+**Freelancer • Open for collaborations • Open for opportunities**
+
+<br/>
+
+[![Instagram](https://img.shields.io/badge/FOLLOW_MY_CREATIVE_WORK-FF2D75?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ind_spiderstree.dev/)
+
+<br/>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=18&duration=2200&pause=700&color=FFFFFF&center=true&vCenter=true&width=650&lines=LEARNING.;BUILDING.;GROWING.;CREATING.;KEEP+SWINGING+%F0%9F%95%B7%EF%B8%8F" alt="Learning Building Growing"/>
+
+</div>
+
+<!-- 🕷️ SPIDER-VERSE ANIMATED FOOTER -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7C3CFF,100:FF2D75&height=180&section=footer&animation=twinkling" width="100%"/>
