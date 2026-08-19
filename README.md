@@ -36,12 +36,6 @@
 
 ## 🕷️ `EARTH-65 // DEVELOPER PROFILE`
 
----
-
-<div align="center">
-
-## 🕷️ `CODE // CREATE // SWING // REPEAT`
-
 **Freelancer • Open for collaborations • Open for opportunities**
 
 <br/>
