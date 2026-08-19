@@ -6,7 +6,15 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2500&pause=900&color=FF4FA3&center=true&vCenter=true&width=700&lines=%F0%9F%95%B7%EF%B8%8F+In+every+verse%2C+I+code.;%E2%9A%A1+Full+Stack+Developer.;%F0%9F%8E%A8+Building+beautiful+web+experiences.;%F0%9F%95%B8%EF%B8%8F+Animated+%7C+Interactive+%7C+Creative.;%F0%9F%95%B7%EF%B8%8F+Die-hard+Spider-Man+fan.;%E2%98%95+Helping+caf%C3%A9s+%26+brands+build+websites." alt="Typing Animation"/>
+<!-- ⚡ ANIMATED INTRO -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=2500&pause=900&color=FFFFFF&center=true&vCenter=true&width=750&lines=%F0%9F%95%B7%EF%B8%8F+In+every+verse%2C+I+code.;%E2%9A%A1+Full+Stack+Developer.;%F0%9F%8E%A8+Building+beautiful+web+experiences.;%F0%9F%95%B8%EF%B8%8F+Animated+%7C+Interactive+%7C+Creative.;%F0%9F%95%B7%EF%B8%8F+Die-hard+Spider-Man+fan.;%E2%98%95+Helping+caf%C3%A9s+%26+brands+build+websites." alt="Typing Animation"/>
+
+<br/>
+
+<!-- 🌱 LEARNING • BUILDING • GROWING -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=18&duration=2200&pause=700&color=FFFFFF&center=true&vCenter=true&width=650&lines=%E2%9C%A6+LEARNING;%E2%9C%A6+BUILDING;%E2%9C%A6+EXPERIMENTING;%E2%9C%A6+GROWING;%E2%9C%A6+REPEAT." alt="Learning Building Growing"/>
 
 <br/>
 <br/>
@@ -31,10 +39,10 @@
 ```text
 ╭──────────────────────────────────────────────────────╮
 │                                                      │
-│   🕷️  RUTUJA SONTTAKKE                              │
+│   🕷️  RUTUJA SONTTAKKE                               │
 │                                                      │
-│   FULL STACK DEVELOPER                              │
-│   MERN + PHP                                        │
+│   FULL STACK DEVELOPER                               │
+│   MERN + PHP                                         │
 │                                                      │
 │   ⚡ Code                                             │
 │   🎨 Design                                           │
@@ -44,17 +52,3 @@
 │   "Anyone can wear the mask."                       │
 │                                                      │
 ╰──────────────────────────────────────────────────────╯
-
-<div align="center">
-
-## 🕷️ BEHIND THE MASK
-
-```text
-╭────────────────────────────────────────────╮
-│                                            │
-│   🕷️  SPIDER-MAN FAN                      │
-│                                            │
-│   ☕ Coffee  ·  💻 Code  ·  🎧 Music       │
-│   🎨 Design  ·  🕸️ Spider-Verse           │
-│                                            │
-╰────────────────────────────────────────────╯
